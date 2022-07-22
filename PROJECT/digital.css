@@ -1,0 +1,14 @@
+.navbar{
+	background:#9127E3;
+}
+.hero{
+	height:400px;
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.hero-overlay{
+
+}
+
+}
